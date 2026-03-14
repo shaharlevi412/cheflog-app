@@ -39,3 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+
+dist.zip
+.env
+desktop.ini
